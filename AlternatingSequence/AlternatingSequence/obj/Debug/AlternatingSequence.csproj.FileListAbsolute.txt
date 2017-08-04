@@ -1,0 +1,5 @@
+E:\School\CSC200\AlternatingSequence\AlternatingSequence\bin\Debug\AlternatingSequence.exe.config
+E:\School\CSC200\AlternatingSequence\AlternatingSequence\bin\Debug\AlternatingSequence.exe
+E:\School\CSC200\AlternatingSequence\AlternatingSequence\bin\Debug\AlternatingSequence.pdb
+E:\School\CSC200\AlternatingSequence\AlternatingSequence\obj\Debug\AlternatingSequence.exe
+E:\School\CSC200\AlternatingSequence\AlternatingSequence\obj\Debug\AlternatingSequence.pdb

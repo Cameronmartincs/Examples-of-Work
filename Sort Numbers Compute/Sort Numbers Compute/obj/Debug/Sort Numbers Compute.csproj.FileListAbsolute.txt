@@ -1,0 +1,8 @@
+E:\School\csc180\Projects\Sort Numbers Compute\Sort Numbers Compute\bin\Debug\Sort Numbers Compute.exe.config
+E:\School\csc180\Projects\Sort Numbers Compute\Sort Numbers Compute\bin\Debug\Sort Numbers Compute.exe
+E:\School\csc180\Projects\Sort Numbers Compute\Sort Numbers Compute\bin\Debug\Sort Numbers Compute.pdb
+E:\School\csc180\Projects\Sort Numbers Compute\Sort Numbers Compute\obj\Debug\SortNumbers.Sorting.resources
+E:\School\csc180\Projects\Sort Numbers Compute\Sort Numbers Compute\obj\Debug\Sort_Numbers_Compute.Properties.Resources.resources
+E:\School\csc180\Projects\Sort Numbers Compute\Sort Numbers Compute\obj\Debug\Sort Numbers Compute.csproj.GenerateResource.Cache
+E:\School\csc180\Projects\Sort Numbers Compute\Sort Numbers Compute\obj\Debug\Sort Numbers Compute.exe
+E:\School\csc180\Projects\Sort Numbers Compute\Sort Numbers Compute\obj\Debug\Sort Numbers Compute.pdb

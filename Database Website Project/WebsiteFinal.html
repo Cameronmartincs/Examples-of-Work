@@ -1,0 +1,122 @@
+<!DOCTYPE>
+<html>
+<head>
+<link rel = "stylesheet" type = "text/css" href = "ProjectStyle.css">
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.5.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="js/jquery-ui.js"></script>
+
+
+        <script>
+           $(document).ready(function(){
+				$("#btnStart").on("click",function(){
+					$("#info").load("Start.html #started");
+					document.getElementById("side").style.visibility = "hidden";
+				});
+           });
+        </script>  
+		
+		<script>
+           $(document).ready(function(){
+				$("#btnNews").on("click",function(){
+					$("#info").load("Start.html #news");
+					document.getElementById("side").style.visibility = "hidden";
+				});
+           });
+        </script>  
+		
+		<script>
+           $(document).ready(function(){
+				$("#btnStats").on("click",function(){
+					$("#info").load("Start.html #All");
+					document.getElementById("side").style.visibility="visible";
+					
+				});
+           });
+		  
+        </script>  
+		
+		<script>
+           $(document).ready(function(){
+				$("#btnTutorials").on("click",function(){
+					$("#info").load("Start.html #tutorials");
+					document.getElementById("side").style.visibility = "hidden";
+				});
+           });
+        </script>  
+		
+		<script>
+           $(document).ready(function(){
+				$("#btnContact").on("click",function(){
+					$("#info").load("Start.html #contact");
+					document.getElementById("side").style.visibility = "hidden";
+				});
+           });
+        </script>
+		
+		<script>
+		function change(str){	
+			$("#info").load("Start.html #"+str);
+		  }
+        </script>
+		
+		<script>
+		   $(document).ready(function(){
+				$("#video1").on("click",function(){
+					$("#info").load("Start.html #original");
+					document.getElementById("side").style.visibility = "hidden";
+				});
+           });
+        </script>
+</head>
+
+<body>
+<nav id = "navigation" style="text-align:center;">
+<video id="video1" width="70" height ="90" autoplay loop >
+    <source src="CFLHB.mp4" type="video/mp4">
+</video>
+<span><strong><p id="neon">~~~~~~~Cam's Fantasy Tips~~~~~~~</p></strong></span>
+</nav>
+		
+
+
+<div id = "menucontainer"  width = 100%>
+	<ul id = "menu" >
+		<li><button id= "btnStart">Getting Started</button></li>
+		<li><button id= "btnNews">News</button></li>
+		<li><button id= "btnStats">Stats</button></li>
+		<li><button id= "btnTutorials">Tutorials</button></li>
+		<li><button id= "btnContact">Contact</button></li>
+		</ul>  
+</div>
+	
+		
+
+
+<div id = "side" style = float:left;>
+		<select id = "sidedrop" name = "select" onchange = "change(this.value)">
+		<option value="All" selected>All Players</option>
+		<option value="QB">Quarterback</option>
+		<option value="RB">Running Back</option>
+		<option value="WR">Wide Reciever</option>
+		<option value="TE">Tight End</option>
+		<option value="K">Kicker</option>
+		<option value="DEF">Defense</option>
+		</select>
+</div>
+
+
+<div id = "info"  width = 70%>
+<h1>WELCOME!</h1>
+<p>This website is everything you need to become a success fantasy football player</p>
+<p>We have tutorials and even statistics to help you weekly games</p>
+<p>If you have any questions, feel free to contact me. Info in the contact section.</p>
+</div>
+
+
+
+<footer>
+</footer>
+</body>
+</html>

@@ -1,0 +1,24 @@
+E:\Cameron Martin\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\bin\Debug\CharacterCreationDatabase.exe.config
+E:\Cameron Martin\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\bin\Debug\Character.mdf
+E:\Cameron Martin\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\bin\Debug\Character_log.ldf
+E:\Cameron Martin\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\bin\Debug\CharacterCreationDatabase.exe
+E:\Cameron Martin\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\bin\Debug\CharacterCreationDatabase.pdb
+E:\Cameron Martin\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.csprojResolveAssemblyReference.cache
+E:\Cameron Martin\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.Properties.Resources.resources
+E:\Cameron Martin\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.csproj.GenerateResource.Cache
+E:\Cameron Martin\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.exe
+E:\Cameron Martin\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.pdb
+E:\Cameron Martin\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.DataControl.resources
+E:\Cameron Martin\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.Output.resources
+E:\School\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\bin\Debug\Character.mdf
+E:\School\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\bin\Debug\Character_log.ldf
+E:\School\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\bin\Debug\CharacterCreationDatabase.exe.config
+E:\School\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\bin\Debug\CharacterCreationDatabase.exe
+E:\School\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\bin\Debug\CharacterCreationDatabase.pdb
+E:\School\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.csprojResolveAssemblyReference.cache
+E:\School\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.DataControl.resources
+E:\School\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.Output.resources
+E:\School\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.Properties.Resources.resources
+E:\School\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.csproj.GenerateResource.Cache
+E:\School\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.exe
+E:\School\CSC200\CharacterCreationDatabase\CharacterCreationDatabase\obj\Debug\CharacterCreationDatabase.pdb

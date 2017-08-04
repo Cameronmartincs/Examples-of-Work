@@ -1,0 +1,10 @@
+E:\School\CSC200\CSC200_HW11_CharacterCreation\CharacterCreation\bin\Debug\CharacterCreation.exe.config
+E:\School\CSC200\CSC200_HW11_CharacterCreation\CharacterCreation\bin\Debug\CharacterCreation.exe
+E:\School\CSC200\CSC200_HW11_CharacterCreation\CharacterCreation\bin\Debug\CharacterCreation.pdb
+E:\School\CSC200\CSC200_HW11_CharacterCreation\CharacterCreation\obj\Debug\CharacterCreation.csprojResolveAssemblyReference.cache
+E:\School\CSC200\CSC200_HW11_CharacterCreation\CharacterCreation\obj\Debug\CharacterCreation.Form1.resources
+E:\School\CSC200\CSC200_HW11_CharacterCreation\CharacterCreation\obj\Debug\CharacterCreation.Form2.resources
+E:\School\CSC200\CSC200_HW11_CharacterCreation\CharacterCreation\obj\Debug\CharacterCreation.Properties.Resources.resources
+E:\School\CSC200\CSC200_HW11_CharacterCreation\CharacterCreation\obj\Debug\CharacterCreation.csproj.GenerateResource.Cache
+E:\School\CSC200\CSC200_HW11_CharacterCreation\CharacterCreation\obj\Debug\CharacterCreation.exe
+E:\School\CSC200\CSC200_HW11_CharacterCreation\CharacterCreation\obj\Debug\CharacterCreation.pdb
