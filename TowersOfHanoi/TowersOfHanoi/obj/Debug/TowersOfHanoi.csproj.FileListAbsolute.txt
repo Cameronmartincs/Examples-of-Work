@@ -1,0 +1,9 @@
+E:\School\CSC340\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe.config
+E:\School\CSC340\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe
+E:\School\CSC340\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.pdb
+E:\School\CSC340\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csprojResolveAssemblyReference.cache
+E:\School\CSC340\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.exe
+E:\School\CSC340\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb
+F:\School\CSC340\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe.config
+F:\School\CSC340\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.exe
+F:\School\CSC340\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb
